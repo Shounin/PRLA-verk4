@@ -1,3 +1,5 @@
+Assignment in the course 'The Python Programming Language' at Reykjavík University, spring semester 2015.  Written with Soffía Ingibjargar
+ 
 Usage directions:
 The script is meant to find all episodes of a particular television show inside a folder and move them to a separate folder, sorted by season.
 The user begins by entering the path to a source folder (e.g. "downloads") and then a destination folder (e.g. "shows").  The user then enters the name of a show.
